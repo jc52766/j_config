@@ -1,2 +1,2 @@
 # j_config
-my f configuration - styles etc
+my j configuration - styles etc
